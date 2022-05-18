@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SeleniumPOM_SagarMalik]">
+  <test name="Automate Charts(failed)">
+    <classes>
+      <class name="com.selenium.pom.TestCases.AutomateCharts">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+          <include name="getTextFromBarChartTooltip"/>
+        </methods>
+      </class> <!-- com.selenium.pom.TestCases.AutomateCharts -->
+    </classes>
+  </test> <!-- Automate Charts(failed) -->
+</suite> <!-- Failed suite [SeleniumPOM_SagarMalik] -->

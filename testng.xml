@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SeleniumPOM_SagarMalik" time-out="300000" >
+	
+	<test name="MakeMyTrip">
+		<classes>
+			<class name="com.selenium.pom.TestCases.MakeMyTrip"></class>
+		</classes>
+	</test>
+	
+	
+</suite>
